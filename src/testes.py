@@ -1,5 +1,3 @@
-# devops-aula05
-
 import jogovelha
 import sys
 
