@@ -1,5 +1,3 @@
-# devops-aula05
-
 def inicializar():
     tab = []
     for i in range(3):
